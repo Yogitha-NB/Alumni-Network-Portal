@@ -33,26 +33,6 @@ Frontend: React.js ,Bootstrap, CSS ,JavaScript <br>
 Backend: Python ,Flask <br>
 Database:SQLite
 
-⚙️ Installation
-
-Run in 3 Steps: 
-
-
-```bash
-cd backend
-pip install flask flask-sqlalchemy flask-cors flask-socketio flask-limiter flasgger PyJWT eventlet
-python app.py
-
-### Step 2 — Create Admin (open browser, run once)
-http://localhost:5000/api/auth/seed
-Admin login: **admin@alumni.com** / **admin123**
-
-### Step 3 — Frontend
-```bash
-cd frontend
-npm install
-npm start
-
 
 🎯 Outcome
 
