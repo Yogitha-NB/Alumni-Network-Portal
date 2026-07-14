@@ -34,9 +34,10 @@ Backend: Python ,Flask <br>
 Database:SQLite
 
 ⚙️ Installation
-Run in 3 Steps
 
-### Step 1 — Backend
+Run in 3 Steps: 
+
+Step 1 — Backend
 ```bash
 cd backend
 pip install flask flask-sqlalchemy flask-cors flask-socketio flask-limiter flasgger PyJWT eventlet
@@ -51,7 +52,6 @@ Admin login: **admin@alumni.com** / **admin123**
 cd frontend
 npm install
 npm start
-<br>
 
 
 🎯 Outcome
