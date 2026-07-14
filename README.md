@@ -37,7 +37,7 @@ Database:SQLite
 
 Run in 3 Steps: 
 
-Step 1 — Backend
+
 ```bash
 cd backend
 pip install flask flask-sqlalchemy flask-cors flask-socketio flask-limiter flasgger PyJWT eventlet
