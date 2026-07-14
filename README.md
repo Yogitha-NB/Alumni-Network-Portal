@@ -7,30 +7,30 @@ industry professionals, finding internships, and participating in alumni-driven 
 
 📁 Project Structure:
 
-ALUMNI-PORTAL/
-│
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── instance/
-│       └──alumni.db
-│
-├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   ├── package-lock.json
-│
-├── README.md
+ALUMNI-PORTAL/  <br>
+│ <br>
+├── backend/  <br>
+│   ├── app.py <br>
+│   ├── requirements.txt <br>
+│   └── instance/ <br>
+│       └──alumni.db <br>
+│ <br>
+├── frontend/ <br>
+│   ├── public/<br>
+│   │   └── index.html <br>
+│   ├── src/ <br>
+│   │   ├── App.js <br>
+│   │   └── index.js <br>
+│   ├── package.json <br>
+│   ├── package-lock.json <br>
+│ <br>
+├── README.md <br>
 └── .gitignore
 
 🛠️Technologies Used:
 
-Frontend: React.js ,Bootstrap, CSS ,JavaScript 
-Backend: Python ,Flask 
+Frontend: React.js ,Bootstrap, CSS ,JavaScript <br>
+Backend: Python ,Flask <br>
 Database:SQLite
 
 ⚙️ Installation
@@ -51,6 +51,8 @@ Admin login: **admin@alumni.com** / **admin123**
 cd frontend
 npm install
 npm start
+<br>
+
 
 🎯 Outcome
 
